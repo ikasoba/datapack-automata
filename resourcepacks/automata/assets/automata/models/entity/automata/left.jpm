@@ -1,0 +1,6 @@
+{
+	"part": "left",
+	"id": "left",
+	"invertAxis": "xy",
+	"translate": [0, 0, 0]
+}

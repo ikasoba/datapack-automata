@@ -1,0 +1,1 @@
+$give $(Target) minecraft:poisonous_potato[minecraft:item_name="Automata",minecraft:lore=['{text:"自動でうごく人形"}'],minecraft:custom_data={"automata:item_kind":"summon_item","automata:automata_state":$(AutomataState)},max_stack_size=1,!minecraft:food,!minecraft:consumable,minecraft:item_model="minecraft:egg"] $(Amount)

@@ -1,0 +1,389 @@
+{
+  "part": "head",
+  "id": "head",
+  "invertAxis": "xy",
+  "translate": [
+    0,
+    -13.5,
+    0
+  ],
+  "boxes": [
+    {
+      "coordinates": [
+        -4.5,
+        13,
+        -4.5,
+        9,
+        9,
+        9
+      ],
+      "textureOffset": [
+        0,
+        0
+      ]
+    },
+    {
+      "coordinates": [
+        -4,
+        13.5,
+        -4,
+        8,
+        8,
+        8
+      ],
+      "uvNorth": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "uvEast": [
+        0,
+        26,
+        8,
+        34
+      ],
+      "uvSouth": [
+        24,
+        26,
+        32,
+        34
+      ],
+      "uvWest": [
+        16,
+        26,
+        24,
+        34
+      ],
+      "uvUp": [
+        16,
+        26,
+        8,
+        18
+      ],
+      "uvDown": [
+        24,
+        18,
+        16,
+        26
+      ]
+    }
+  ],
+  "submodels": [
+    {
+      "id": "ahoge",
+      "invertAxis": "xy",
+      "translate": [
+        0,
+        22.5,
+        -3
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -4,
+            -1,
+            0,
+            8,
+            8,
+            0
+          ],
+          "uvNorth": [
+            36,
+            0,
+            44,
+            8
+          ],
+          "uvEast": [
+            36,
+            0,
+            36,
+            8
+          ],
+          "uvSouth": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "uvWest": [
+            44,
+            0,
+            44,
+            8
+          ],
+          "uvUp": [
+            44,
+            0,
+            36,
+            0
+          ],
+          "uvDown": [
+            52,
+            0,
+            44,
+            0
+          ]
+        }
+      ]
+    },
+    {
+      "id": "face0",
+      "invertAxis": "xy",
+      "translate": [
+        0,
+        13.5,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -4,
+            0,
+            -4,
+            8,
+            8,
+            0
+          ],
+          "uvNorth": [
+            8,
+            26,
+            16,
+            34
+          ],
+          "uvEast": [
+            8,
+            26,
+            8,
+            34
+          ],
+          "uvSouth": [
+            30,
+            50,
+            30,
+            50
+          ],
+          "uvWest": [
+            16,
+            26,
+            16,
+            34
+          ],
+          "uvUp": [
+            16,
+            26,
+            8,
+            26
+          ],
+          "uvDown": [
+            24,
+            26,
+            16,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "face1",
+      "invertAxis": "xy",
+      "translate": [
+        0,
+        13.5,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -4,
+            0,
+            -4,
+            8,
+            8,
+            0
+          ],
+          "uvNorth": [
+            36,
+            8,
+            44,
+            16
+          ],
+          "uvEast": [
+            8,
+            26,
+            8,
+            34
+          ],
+          "uvSouth": [
+            30,
+            50,
+            30,
+            50
+          ],
+          "uvWest": [
+            16,
+            26,
+            16,
+            34
+          ],
+          "uvUp": [
+            16,
+            26,
+            8,
+            26
+          ],
+          "uvDown": [
+            24,
+            26,
+            16,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "face2",
+      "invertAxis": "xy",
+      "translate": [
+        0,
+        13.5,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -4,
+            0,
+            -4,
+            8,
+            8,
+            0
+          ],
+          "uvNorth": [
+            44,
+            8,
+            52,
+            16
+          ],
+          "uvEast": [
+            8,
+            26,
+            8,
+            34
+          ],
+          "uvSouth": [
+            30,
+            50,
+            30,
+            50
+          ],
+          "uvWest": [
+            16,
+            26,
+            16,
+            34
+          ],
+          "uvUp": [
+            16,
+            26,
+            8,
+            26
+          ],
+          "uvDown": [
+            24,
+            26,
+            16,
+            26
+          ]
+        }
+      ]
+    },
+    {
+      "id": "face3",
+      "invertAxis": "xy",
+      "translate": [
+        0,
+        13.5,
+        0
+      ],
+      "boxes": [
+        {
+          "coordinates": [
+            -4,
+            0,
+            -4,
+            8,
+            8,
+            0
+          ],
+          "uvNorth": [
+            52,
+            8,
+            60,
+            16
+          ],
+          "uvEast": [
+            8,
+            26,
+            8,
+            34
+          ],
+          "uvSouth": [
+            30,
+            50,
+            30,
+            50
+          ],
+          "uvWest": [
+            16,
+            26,
+            16,
+            34
+          ],
+          "uvUp": [
+            16,
+            26,
+            8,
+            26
+          ],
+          "uvDown": [
+            24,
+            26,
+            16,
+            26
+          ]
+        }
+      ]
+    },
+    {
+	  "id": "ribbon",
+	  "invertAxis": "xy",
+	  "translate": [1, 20.75, 5],
+					"rotate": [-16.5, 0, 0],
+					"boxes": [
+						{
+							"coordinates": [-5, -5, 0, 10, 10, 0],
+							"uvNorth": [0, 0, 1, 0],
+							"uvEast": [-1, 42, -1, 52],
+							"uvSouth": [0, 42, 10, 52],
+							"uvWest": [9, 42, 9, 52],
+							"uvUp": [9, 42, -1, 42],
+							"uvDown": [19, 42, 9, 42]
+						}
+					]
+				}
+  ],
+  "animations": [
+    {
+      "ahoge.rz": "sin(time / 5) / 5",
+      "ahoge.ry": "sin(time / 10) / 5",
+      "ribbon.rx": "sin(time / 10) / 10 + 0.25",
+      "ribbon.ry": "sin(time / 15) / 20",
+      "var.t": "if((time + random(id + rule_index) * 600) / 20 % 30 < 1, floor(time) % 10, 0)",
+      "face0.tz": "if(var.t == 0, 0, 0.001)",
+      "face1.visible": "if(var.t == 6, 1, 0) == 1",
+      "face2.visible": "if(var.t == 9, 1, 0) == 1",
+      "face3.visible": "if(var.t == 8, 1, 0) == 1"
+    }
+  ]
+}

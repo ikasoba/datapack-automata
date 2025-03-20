@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#minecraft:climbable",
+    "#minecraft:replaceable",
+    "#minecraft:saplings",
+    "#minecraft:flowers",
+    "#minecraft:wall_post_override",
+    "#minecraft:rails"
+  ]
+}

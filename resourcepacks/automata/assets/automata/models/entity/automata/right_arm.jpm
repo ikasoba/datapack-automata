@@ -1,0 +1,18 @@
+{
+	"part": "right_arm",
+	"id": "right_arm",
+	"invertAxis": "xy",
+	"translate": [-5, -12, 0],
+	"boxes": [
+		{"coordinates": [2.5, 7.5, -1, 2, 6, 2], "textureOffset": [8, 34]}
+	],
+	"submodels": [
+		{
+			"part": "right_arm_item",
+			"translate": [-2.5, -22, 0],
+			"attachments": {
+				"right_handheld_item": [0.0, 0.4, 0.1]
+			}
+		}
+	]
+}

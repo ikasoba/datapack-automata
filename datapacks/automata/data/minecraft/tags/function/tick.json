@@ -1,0 +1,7 @@
+{
+  "values": [
+    "automata:tick",
+    "automata:mob/tick",
+    "automata:model/tick"
+  ]
+}

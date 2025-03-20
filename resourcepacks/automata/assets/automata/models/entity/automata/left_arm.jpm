@@ -1,0 +1,9 @@
+{
+	"part": "left_arm",
+	"id": "left_arm",
+	"invertAxis": "xy",
+	"translate": [5, -12, 0],
+	"boxes": [
+		{"coordinates": [-4.5, 7.5, -1, 2, 6, 2], "textureOffset": [0, 34]}
+	]
+}

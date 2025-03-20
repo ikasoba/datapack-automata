@@ -1,0 +1,40 @@
+{
+	"credit": "Made with Blockbench",
+	"textureSize": [64, 64],
+	"texture": "automata:textures/entity/automata_00",
+	"models": [
+		{
+			"model": "automata:models/entity/automata/head.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/body.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/waist.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/left_arm.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/right_arm.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/left_leg.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/right_leg.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/base.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/right.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/left.jpm"
+		},
+		{
+			"model": "automata:models/entity/automata/headwear.jpm"
+		}
+	]
+}

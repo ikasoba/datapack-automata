@@ -1,0 +1,9 @@
+{
+	"part": "waist",
+	"id": "waist",
+	"invertAxis": "xy",
+	"translate": [0, -14.5, 0],
+	"boxes": [
+		{"coordinates": [-4, 2, -4, 8, 7, 8], "textureOffset": [32, 18]}
+	]
+}

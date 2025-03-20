@@ -1,0 +1,3 @@
+execute as @e[type=minecraft:item,nbt={"Item":{"components":{"minecraft:custom_data":{"automata:item_kind":"summon"}}}}] at @s run function automata:do_summon {}
+execute as @e[type=minecraft:item,nbt={"Item":{"components":{"minecraft:custom_data":{"automata:item_kind":"summon_item"}}}}] at @s run data modify entity @s Item.components.minecraft:custom_data.automata:item_kind set value "summon"
+execute as @a if entity @s[nbt={SelectedItem: { components: { "minecraft:custom_data": { "automata:item_kind": "entity_summon_item" } } }}] run item modify entity @s weapon.mainhand { function: "minecraft:set_custom_data", tag: { "automata:item_kind": "summon_item" } }
