@@ -7,3 +7,5 @@ Automata
 <p align="center">
 Minecraft Java Edition へお助けしてくれるお人形さんを追加するデータパック
 </p>
+
+![](./screenshot.png)
